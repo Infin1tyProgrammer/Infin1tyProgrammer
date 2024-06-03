@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Infin1tyProgrammer
 - 👀 I’m interested in making games,websites and apps
-- 🌱 I’m currently learning html,css,js and java
+- 🌱 I’m currently learning java and python
  
  
 <!---
